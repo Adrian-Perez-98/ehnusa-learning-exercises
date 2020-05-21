@@ -1,2 +1,9 @@
 May 20, 2020
-    >
+    -> More git and gitHub learning
+    -> Introduction to React and React-Bootstrap
+       > Udemy course on React
+       	 > Modern js syntax
+	 > Created React App using node.js and React.js 
+
+Notes: cmnd npm start = run server
+       CTRl E = shortcut to open end chunk in html/jsonx
